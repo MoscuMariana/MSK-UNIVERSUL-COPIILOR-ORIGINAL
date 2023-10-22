@@ -467,7 +467,6 @@ h5,
   font-family: "icomoon";
 }
 .site-navbar .site-navigation .site-menu .has-children .dropdown {
-  visibility: hidden;
   opacity: 0;
   top: 100%;
   position: absolute;
@@ -1283,4 +1282,8 @@ h5,
 .slide-one-item.home-slider:active .owl-nav {
   opacity: 10;
   visibility: visible;
+}
+
+.bx .bx-download1 {
+  color: #8bc34a;
 }
