@@ -4,11 +4,11 @@ body {
   color: #000;
   font-weight: 400;
   font-size: 1rem;
-  background: rgba(255, 255, 0, 0.212);
+  background: rgb(255, 255, 255);
 }
 
 html {
-  background: rgba(224, 224, 134, 0);
+  background: white;
 }
 
 ::-moz-selection {
